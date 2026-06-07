@@ -188,6 +188,7 @@ bubble-pop/
 
 ```bash
 pip install opencv-python mediapipe pygame numpy
+> Add any background music `.mp3` file to the project folder and update the filename as "**Plants vs Zombies Soundtrack. .mp3**"
 ```
 
 ### Run
